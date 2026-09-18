@@ -1,86 +1,62 @@
 <h1 align="center">Hi 👋, I'm Misty Joshi</h1>
 
 <h3 align="center">
-Aspiring Software Developer • B.Tech CSAI Student • DSA & Full-Stack Developer
+Building products at the intersection of Software, AI & Problem Solving.
 </h3>
 
 <p align="center">
-  <a href="https://leetcode.com/u/misty_joshi/">LeetCode</a> •
-  <a href="https://www.linkedin.com/in/mistyjoshi">LinkedIn</a> •
-  <a href="https://github.com/mistyyy-7">GitHub</a>
+  B.Tech CSAI Student • C++ DSA • Full-Stack Development • AI/ML
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mistyyy-7&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
+  <a href="https://github.com/mistyyy-7">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://leetcode.com/u/misty_joshi/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/mistyjoshi">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
 ## 👩‍💻 About Me
 
-```cpp
-class Misty {
-public:
+I'm a Computer Science & AI student who enjoys turning ideas into
+real, usable products.
 
-    string role = "Aspiring Software Developer";
-    string degree = "B.Tech - Computer Science & AI";
-
-    vector<string> interests = {
-        "Data Structures & Algorithms",
-        "Full-Stack Development",
-        "Artificial Intelligence & Machine Learning"
-    };
-
-    vector<string> languages = {
-        "C++",
-        "Python",
-        "Java",
-        "SQL",
-        "JavaScript"
-    };
-
-    string currentlyLearning =
-        "Advanced DSA, System Design & AI/ML";
-
-    string goal =
-        "Build scalable products and become a strong software engineer";
-};
-```
+- 🧩 Solving **Data Structures & Algorithms in C++**
+- 💻 Building **full-stack web applications**
+- 🤖 Exploring **AI/ML & AI-powered applications**
+- 🗄️ Strengthening **SQL & database concepts**
+- 🏗️ Learning **System Design & Software Engineering**
+- 🚀 Interested in building products that solve real problems
 
 ---
 
-## 🚀 What I'm Currently Doing
+## ⚔️ Tech Arsenal
 
-* 🧩 Solving **DSA problems in C++**
-* 💻 Building full-stack web applications
-* 🤖 Exploring **AI/ML and AI-powered applications**
-* 🗄️ Strengthening my **SQL & database** skills
-* 🏗️ Learning **System Design & Software Engineering**
-* 🚀 Building and deploying real-world projects
-
----
-
-## 🛠️ Tech Stack
-
-### Languages
+### 💻 Languages
 
 <p>
   <img src="https://skillicons.dev/icons?i=cpp,python,java,js,html,css" />
 </p>
 
-### Frontend
+### 🎨 Frontend
 
 <p>
   <img src="https://skillicons.dev/icons?i=react,vite,tailwind" />
 </p>
 
-### Backend & Database
+### ⚙️ Backend & Database
 
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
 </p>
 
-### Tools & Platforms
+### 🛠️ Tools & Platforms
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel" />
@@ -88,37 +64,79 @@ public:
 
 ---
 
-# 🌟 Featured Projects
+# 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
 
 ### 🏠 SplitVilla
 
 A modern web application for managing and splitting shared expenses.
 
-**Tech:** React • JavaScript • Tailwind CSS
+**Tech**
 
-🔗 **Live Demo:** [SplitVilla](https://splitvilla.vercel.app/)
+`React` `JavaScript` `Tailwind CSS`
 
----
+<br>
+
+<a href="https://splitvilla.vercel.app/">
+<img src="https://img.shields.io/badge/Live%20Demo-Visit%20Project-0A66C2?style=for-the-badge"/>
+</a>
+
+</td>
+
+<td width="50%">
 
 ### 🤖 InteractAI
 
-An AI-powered mock interview platform designed to help users practice interviews and receive structured interview results.
+An AI-powered mock interview platform for practicing interviews and receiving structured results.
 
-**Tech:** React • Vite • Node.js • Express • MongoDB • JWT
+**Tech**
 
-🔗 **Live Demo:** [InteractAI](https://ai-powered-mock-interview-platform-delta.vercel.app/)
+`React` `Vite` `Node.js` `Express` `MongoDB` `JWT`
 
-🔗 **GitHub:** [AI-powered-mock-interview-platform](https://github.com/mistyyy-7/AI-powered-mock-interview-platform)
+<br>
 
----
+<a href="https://ai-powered-mock-interview-platform-delta.vercel.app/">
+<img src="https://img.shields.io/badge/Live%20Demo-Visit%20Project-0A66C2?style=for-the-badge"/>
+</a>
+
+<a href="https://github.com/mistyyy-7/AI-powered-mock-interview-platform">
+<img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
 
 ### 🚀 Creator Copilot AI
 
-An AI-powered assistant built to help content creators improve and streamline their creative workflow.
+An AI-powered creator assistant built during a hackathon to help streamline the content creation workflow.
 
-**Tech:** React • Tailwind CSS • Node.js • Express • Gemini • MongoDB
+**Tech**
 
-🏆 **Hackathon Achievement — 7th Place**
+`React` `Tailwind CSS` `Node.js` `Express` `Gemini` `MongoDB`
+
+<br>
+
+🏆 **Hackathon — 7th Place**
+
+</td>
+
+<td width="50%">
+
+### 🧩 More Coming Soon...
+
+Currently building and experimenting with new ideas around:
+
+`AI` `Full-Stack` `DSA` `Developer Tools`
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -130,11 +148,11 @@ An AI-powered assistant built to help content creators improve and streamline th
 <img src="https://img.shields.io/badge/LeetCode-265%2B%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 
-<img src="https://img.shields.io/badge/C%2B%2B-DSA-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/DSA-C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
 
 </p>
 
-### 📚 Topics I've Practiced
+### Topics I've Worked With
 
 `Arrays` `Strings` `Linked Lists` `Stacks` `Queues`
 
@@ -142,17 +160,19 @@ An AI-powered assistant built to help content creators improve and streamline th
 
 `Backtracking` `Dynamic Programming` `Greedy`
 
-`DSU` `Shortest Path` `SQL` `Binary Search`
+`DSU` `Shortest Path` `Binary Search` `SQL`
 
 ---
 
 # 🏆 Achievements
 
-* 🔥 **265+ LeetCode problems solved**
-* 📅 Completed a **100+ day LeetCode streak**
-* 🏆 **7th Place** — Hackathon with Creator Copilot AI
-* 🚀 Qualified for **Round 2 of SIH 2026**
-* 💻 Built and deployed multiple full-stack projects
+| Achievement | Details |
+|---|---|
+| 🔥 LeetCode | **265+ problems solved** |
+| 📅 Consistency | **100+ day LeetCode streak** |
+| 🏆 Hackathon | **7th Place — Creator Copilot AI** |
+| 🚀 SIH 2026 | **Qualified for Round 2** |
+| 💻 Projects | Multiple deployed full-stack applications |
 
 ---
 
@@ -176,7 +196,7 @@ An AI-powered assistant built to help content creators improve and streamline th
 
 ---
 
-# 📫 Connect With Me
+# 📫 Let's Connect
 
 <p align="center">
 
